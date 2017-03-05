@@ -1,0 +1,23 @@
+{
+  "name": "astrosalesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arusak/astrosalesbot.git"
+  },
+  "author": "anton rusak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arusak/astrosalesbot/issues"
+  },
+  "homepage": "https://github.com/arusak/astrosalesbot#readme",
+  "dependencies": {
+    "iconv-lite": "*",
+    "nodemailer": "^3.1.4"
+  }
+}
