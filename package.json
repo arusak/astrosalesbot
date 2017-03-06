@@ -18,6 +18,7 @@
   "homepage": "https://github.com/arusak/astrosalesbot#readme",
   "dependencies": {
     "iconv-lite": "*",
-    "nodemailer": "^3.1.4"
+    "nodemailer": "^3.1.4",
+    "rx": "^4.1.0"
   }
 }
