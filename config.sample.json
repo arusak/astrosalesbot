@@ -1,0 +1,11 @@
+{
+  "to": "receiver@gmail.com",
+  "mailer": {
+    "service": "gmail",
+    "host": "smtp.gmail.com",
+    "auth": {
+      "user": "username",
+      "pass": "password"
+    }
+  }
+}
